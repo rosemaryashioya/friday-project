@@ -26,7 +26,7 @@ git commit -m "Add README.md"
 
 git push -u origin master
 
-Functions Used:
+Languages Used:
 
 HTML
 
