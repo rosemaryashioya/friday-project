@@ -3,6 +3,10 @@
 Description
 
 This web page allows two people to play a game of Pig Dice.
+git add. 
+git clone
+git push
+
 
 Specs
 
