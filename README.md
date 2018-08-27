@@ -38,4 +38,4 @@ JavaScript
 
 jQuery
 
-License:This software is licensed under the MIT license# pig
+License:This software is licensed under the MIT license
